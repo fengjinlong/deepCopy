@@ -1,6 +1,6 @@
 {
   "name": "deepcopyfe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "js for deepcopy",
   "main": "index.js",
   "scripts": {
